@@ -24,6 +24,8 @@ const App = () => {
       <ButtonGradient />
     </>
   )
+
+  
 }
 
 export default App
